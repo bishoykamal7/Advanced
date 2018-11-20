@@ -1,0 +1,30 @@
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\bin\Debug\netcoreapp2.1\snow board.deps.json
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\bin\Debug\netcoreapp2.1\snow board.runtimeconfig.json
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\bin\Debug\netcoreapp2.1\snow board.runtimeconfig.dev.json
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\bin\Debug\netcoreapp2.1\snow board.dll
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\bin\Debug\netcoreapp2.1\snow board.pdb
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\bin\Debug\netcoreapp2.1\snow board.Views.dll
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\bin\Debug\netcoreapp2.1\snow board.Views.pdb
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.csprojAssemblyReference.cache
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.csproj.CoreCompileInputs.cache
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.RazorAssemblyInfo.cache
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.RazorAssemblyInfo.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.AssemblyInfoInputs.cache
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.AssemblyInfo.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.TagHelpers.input.cache
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.TagHelpers.output.cache
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.RazorCoreGenerate.cache
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.RazorTargetAssemblyInfo.cache
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.RazorTargetAssemblyInfo.cs
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.Views.pdb
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.dll
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.pdb
+C:\Users\Beshoy\Desktop\Advanced\snow board\snow board\obj\Debug\netcoreapp2.1\snow board.csproj.CopyComplete
